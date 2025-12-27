@@ -1,15 +1,14 @@
 # 📊 Data Science Job Market Analysis (2025)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 🚀 Project Overview
-This project provides a comprehensive analysis of the **2025 Data Science Job Market**. By analyzing over **900 job postings**, we identified key trends in salaries, required skills, and location hubs to help candidates navigate the hiring landscape.
+This project provides a comprehensive analysis of the **2025 Data Science Job Market**. By analyzing over **900 job postings**, we identified key trends in salaries, required skills, and location hubs.
 
 ---
 
-## 📂 Project Files (Access the Analysis)
+## 📂 Project Files (Click to Access)
 
 | 📄 **Business Report** | 💻 **Jupyter Notebook** |
 | :---: | :---: |
@@ -23,20 +22,19 @@ This project provides a comprehensive analysis of the **2025 Data Science Job Ma
 
 ### 💰 1. Salary & Compensation
 * **Range:** The typical salary band falls between **$50,000 and $150,000**.
-* **Seniority:** Senior roles exhibit high variance, often exceeding $200k.
+* **Seniority:** Senior roles exhibit high variance.
 
-![Salary Distribution](images%20of%20plots/Univariate%20Analysis%20–%20Salary%20Distribution%20(histplot).png)
+<img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Univariate%20Analysis%20%E2%80%93%20Salary%20Distribution%20(histplot).png?raw=true" width="100%" alt="Salary Distribution">
 
 ### 📍 2. Location Trends
 * **Tech Hubs:** Hiring is heavily concentrated in major metropolitan areas.
-* **Remote Work:** Remains a significant portion of the market, offering competitive pay.
 
-![Location Analysis](images%20of%20plots/Univariate%20Analysis%20–%20Location%20(barplot).png)
+<img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Univariate%20Analysis%20%E2%80%93%20Location%20(barplot).png?raw=true" width="100%" alt="Location Analysis">
 
 ### 🛠️ 3. Skills in Demand
 * **Top 3 Skills:** Python, SQL, and Machine Learning.
 
-![Skills Word Cloud](images%20of%20plots/Skills%20Analysis%20(WordCloud).png)
+<img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Skills%20Analysis%20(WordCloud).png?raw=true" width="100%" alt="Skills WordCloud">
 
 ---
 
@@ -44,8 +42,8 @@ This project provides a comprehensive analysis of the **2025 Data Science Job Ma
 The market is currently dominated by **Data Scientists** and **Analysts**.
 
 <p align="center">
-  <img src="images of plots/Univariate Analysis – Job Titles (barplot).png" width="45%" alt="Job Titles" />
-  <img src="images of plots/Univariate Analysis – Seniority Level (countplot).png" width="45%" alt="Seniority" />
+  <img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Univariate%20Analysis%20%E2%80%93%20Job%20Titles%20(barplot).png?raw=true" width="45%" />
+  <img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Univariate%20Analysis%20%E2%80%93%20Seniority%20Level%20(countplot).png?raw=true" width="45%" />
 </p>
 
 ---
@@ -56,8 +54,8 @@ The 2025 market favors candidates who combine **technical expertise (Python/SQL)
 <br>
 
 ### 📈 Deep Dive: Outlier Analysis
-*Salary anomalies across different seniority levels.*
-![Salary Boxplot](images%20of%20plots/Salary%20vs%20Seniority%20(boxplot%20for%20outliers).png)
+<img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Salary%20vs%20Seniority%20(boxplot%20for%20outliers).png?raw=true" width="100%" alt="Salary Boxplot">
 
 ---
-*Created by [mahima gupta]*
+
+*Created by Mahima Gupta*
