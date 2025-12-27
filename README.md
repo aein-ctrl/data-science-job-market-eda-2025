@@ -1,10 +1,11 @@
+
 # 📊 Data Science Job Market Analysis (2025)
 
 ## 📌 Project Overview
 This project analyzes the Data Science hiring funnel and salary trends for the year 2025. Using a dataset of over 900 job postings, we explored salary determinants, high-demand skills, and the best opportunities for entry-level candidates.
 
 * **📄 Read the Full Report:** [View Project Report (PDF)](Project%20Report%20of%20Data%20Science%20Salary%20Analysis.pdf)
-* **💻 View the Code:** [View Jupyter Notebook](Exploratory%20Data%20Analysis%20of%20Hiring%20Funnel%20%26%20Salary%20Determinants.ipynb)
+* **💻 View the Code:** [View Jupyter Notebook](Exploratory%20Data%20Analysis%20of%20Hiring%20Funnel%20&%20Salary%20Determinants.ipynb)
 
 ---
 
@@ -12,27 +13,27 @@ This project analyzes the Data Science hiring funnel and salary trends for the y
 
 ### 1. Job Market Overview
 **Distribution of Job Titles & Seniority**
-*The market is dominated by Data Scientists and Analysts.*
-
-![Job Titles](Univariate%20Analysis%20–%20Job%20Titles%20(barplot).png)
-![Seniority Level](Univariate%20Analysis%20–%20Seniority%20Level%20(countplot).png)
+<br>
+<img src="Univariate Analysis – Job Titles (barplot).png" alt="Job Titles" width="800">
+<br>
+<img src="Univariate Analysis – Seniority Level (countplot).png" alt="Seniority Level" width="800">
 
 ### 2. Location & Salary Trends
 **Where are the jobs, and how much do they pay?**
-
-![Location Analysis](Univariate%20Analysis%20–%20Location%20(barplot).png)
-![Salary Distribution](Univariate%20Analysis%20–%20Salary%20Distribution%20(histplot).png)
+<br>
+<img src="Univariate Analysis – Location (barplot).png" alt="Location" width="800">
+<br>
+<img src="Univariate Analysis – Salary Distribution (histplot).png" alt="Salary Dist" width="800">
 
 ### 3. Deep Dive: Salary vs. Seniority
 **Outlier Detection**
-*Senior roles show significant salary variance compared to entry-level positions.*
-
-![Salary vs Seniority](Salary%20vs%20Seniority%20(boxplot%20for%20outliers).png)
+<br>
+<img src="Salary vs Seniority (boxplot for outliers).png" alt="Salary Outliers" width="800">
 
 ### 4. Skills Analysis
 **Most In-Demand Keywords**
-
-![Skills WordCloud](Skills%20Analysis%20(WordCloud).png)
+<br>
+<img src="Skills Analysis (WordCloud).png" alt="Word Cloud" width="800">
 
 ---
 
