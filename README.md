@@ -13,27 +13,27 @@ This project analyzes the Data Science hiring funnel and salary trends for the y
 
 ### 1. Job Market Overview
 **Distribution of Job Titles & Seniority**
-<br>
-<img src="Univariate Analysis – Job Titles (barplot).png" alt="Job Titles" width="800">
-<br>
-<img src="Univariate Analysis – Seniority Level (countplot).png" alt="Seniority Level" width="800">
+*The market is dominated by Data Scientists and Analysts.*
+
+![Job Titles](Univariate%20Analysis%20%E2%80%93%20Job%20Titles%20%28barplot%29.png)
+![Seniority Level](Univariate%20Analysis%20%E2%80%93%20Seniority%20Level%20%28countplot%29.png)
 
 ### 2. Location & Salary Trends
 **Where are the jobs, and how much do they pay?**
-<br>
-<img src="Univariate Analysis – Location (barplot).png" alt="Location" width="800">
-<br>
-<img src="Univariate Analysis – Salary Distribution (histplot).png" alt="Salary Dist" width="800">
+
+![Location Analysis](Univariate%20Analysis%20%E2%80%93%20Location%20%28barplot%29.png)
+![Salary Distribution](Univariate%20Analysis%20%E2%80%93%20Salary%20Distribution%20%28histplot%29.png)
 
 ### 3. Deep Dive: Salary vs. Seniority
 **Outlier Detection**
-<br>
-<img src="Salary vs Seniority (boxplot for outliers).png" alt="Salary Outliers" width="800">
+*Senior roles show significant salary variance compared to entry-level positions.*
+
+![Salary vs Seniority](Salary%20vs%20Seniority%20%28boxplot%20for%20outliers%29.png)
 
 ### 4. Skills Analysis
 **Most In-Demand Keywords**
-<br>
-<img src="Skills Analysis (WordCloud).png" alt="Word Cloud" width="800">
+
+![Skills WordCloud](Skills%20Analysis%20%28WordCloud%29.png)
 
 ---
 
