@@ -1,61 +1,55 @@
 # 📊 Data Science Job Market Analysis (2025)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-Success-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 🚀 Project Overview
-This project provides a comprehensive analysis of the **2025 Data Science Job Market**. By analyzing over **900 job postings**, we identified key trends in salaries, required skills, and location hubs.
+**What is the state of the Data Science job market in 2025?** This project analyzes over **900 real-world job postings** to decode the hiring funnel. It is designed to help candidates and recruiters understand salary determinants, location hotspots, and the most in-demand technical skills.
 
 ---
 
-## 📂 Project Files (Click to Access)
+## 📂 Key Deliverables
 
-| 📄 **Business Report** | 💻 **Jupyter Notebook** |
-| :---: | :---: |
-| [**View PDF Report**](Project%20Report%20of%20Data%20Science%20Salary%20Analysis.pdf) | [**View Python Code**](Exploratory%20Data%20Analysis%20of%20Hiring%20Funnel%20%26%20Salary%20Determinants.ipynb) |
+### 1️⃣ **The Python Code**
+* **File:** `Exploratory Data Analysis of Hiring Funnel & Salary Determinants.ipynb`
+* **Description:** Contains the complete data cleaning pipeline, exploratory data analysis (EDA), and visualization code.
+* **How to view:** Click the `.ipynb` file in the file list above to see the code and charts.
 
-> **Note:** The notebook contains the full EDA, data cleaning steps, and visualization code.
-
----
-
-## 🔍 Key Insights
-
-### 💰 1. Salary & Compensation
-* **Range:** The typical salary band falls between **$50,000 and $150,000**.
-* **Seniority:** Senior roles exhibit high variance.
-
-<img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Univariate%20Analysis%20%E2%80%93%20Salary%20Distribution%20(histplot).png?raw=true" width="100%" alt="Salary Distribution">
-
-### 📍 2. Location Trends
-* **Tech Hubs:** Hiring is heavily concentrated in major metropolitan areas.
-
-<img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Univariate%20Analysis%20%E2%80%93%20Location%20(barplot).png?raw=true" width="100%" alt="Location Analysis">
-
-### 🛠️ 3. Skills in Demand
-* **Top 3 Skills:** Python, SQL, and Machine Learning.
-
-<img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Skills%20Analysis%20(WordCloud).png?raw=true" width="100%" alt="Skills WordCloud">
+### 2️⃣ **The Business Report**
+* **File:** `Project Report of Data Science Salary Analysis.pdf`
+* **Description:** A professional summary of findings suitable for non-technical stakeholders.
+* **How to view:** Click the `.pdf` file in the file list above.
 
 ---
 
-## 📊 Deep Dive: Market Structure
-The market is currently dominated by **Data Scientists** and **Analysts**.
+## 💡 Executive Summary of Findings
 
-<p align="center">
-  <img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Univariate%20Analysis%20%E2%80%93%20Job%20Titles%20(barplot).png?raw=true" width="45%" />
-  <img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Univariate%20Analysis%20%E2%80%93%20Seniority%20Level%20(countplot).png?raw=true" width="45%" />
-</p>
+### 💰 Salary Insights
+* **Market Range:** Salaries typically range between **$50,000 and $150,000**.
+* **Seniority Impact:** Senior roles show massive variance (often >$200k), while entry-level pay is more standardized around $80k.
+
+### 📍 Location Strategy
+* **Tech Hubs:** Hiring remains heavily concentrated in major metropolitan areas.
+* **Remote Work:** Remote roles are still a significant part of the ecosystem, often offering competitive pay matching onsite roles.
+
+### 🛠️ The "Must-Have" Tech Stack
+Recruiters are specifically looking for this combination:
+1.  **Python** (Foundational)
+2.  **SQL** (Database Management)
+3.  **Machine Learning** (Predictive Modeling)
+4.  **Business Communication** (Soft Skill)
 
 ---
 
-## 📝 Conclusion
-The 2025 market favors candidates who combine **technical expertise (Python/SQL)** with domain knowledge.
-
-<br>
-
-### 📈 Deep Dive: Outlier Analysis
-<img src="https://github.com/aein-ctrl/data-science-job-market-eda-2025/blob/main/images%20of%20plots/Salary%20vs%20Seniority%20(boxplot%20for%20outliers).png?raw=true" width="100%" alt="Salary Boxplot">
+## 🔧 Tools & Techniques Used
+* **Libraries:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+* **Data Cleaning:** Handling missing values, outlier detection (IQR method), string manipulation for job titles.
+* **Visualization:** Boxplots for salary distribution, WordClouds for skills, and Bar Charts for categorical analysis.
 
 ---
 
-*Created by Mahima Gupta*
+## 👨‍💻 Author
+**Mahima Gupta** *Aspiring Data Scientist | Open to Opportunities*
+
+
