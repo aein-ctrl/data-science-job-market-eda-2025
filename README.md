@@ -26,5 +26,3 @@ This project analyzes the Data Science hiring funnel and salary trends for the y
 * `Project Report...pdf`: Final Presentation
 * `job_market_distribution.png`: Market Visualization
 * `salary_trends.png`: Salary Visualization
-* `analysis_plot_1.png`: Hiring Distribution Chart
-* `analysis_plot_2.png`: Salary Trends Chart
