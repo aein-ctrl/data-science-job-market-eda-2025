@@ -1,38 +1,56 @@
 # 📊 Data Science Job Market Analysis (2025)
 
-## 📌 Project Overview
-This project analyzes the Data Science hiring funnel and salary trends for the year 2025. By analyzing a dataset of job postings, we examined the relationship between job titles, seniority levels, required skills, and salary expectations.
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 📂 Key Project Files
-Click the links below to view the analysis:
-
-* **📘 READ THE REPORT:** [Project Report (PDF)](Project%20Report%20of%20Data%20Science%20Salary%20Analysis.pdf)
-    * *Executive summary and business recommendations.*
-
-* **💻 VIEW THE CODE:** [Jupyter Notebook (.ipynb)](Exploratory%20Data%20Analysis%20of%20Hiring%20Funnel%20%26%20Salary%20Determinants.ipynb)
-    * *Python code for data cleaning, EDA, and visualization.*
+## 🚀 Project Overview
+This project provides a comprehensive analysis of the **2025 Data Science Job Market**. By analyzing over **900 job postings**, we identified key trends in salaries, required skills, and location hubs to help candidates navigate the hiring landscape.
 
 ---
 
-## 🔍 Executive Summary
+## 📂 Project Files (Click to Open)
 
-### 1. Salary Trends
-* **Typical Range:** Salaries generally fall between **$50,000 and $150,000**.
-* **Seniority Impact:** Senior roles show significantly higher variance and pay ceilings compared to entry-level positions.
+| 📄 **Business Report** | 💻 **Jupyter Notebook** |
+| :---: | :---: |
+| [**View PDF Report**](Project%20Report%20of%20Data%20Science%20Salary%20Analysis.pdf) | [**View Python Code**](Exploratory%20Data%20Analysis%20of%20Hiring%20Funnel%20%26%20Salary%20Determinants.ipynb) |
 
-### 2. Top Roles & Skills
-* **Most In-Demand Roles:** Data Scientist, Data Analyst, Machine Learning Engineer.
-* **Critical Skills:** Python, SQL, and Machine Learning are the most frequently cited requirements in job descriptions.
-
-### 3. Location Dynamics
-* Hiring is clustered in major tech hubs, but **Remote** work remains a strong and competitive option for candidates.
+> **Note:** The notebook contains the full EDA, data cleaning steps, and visualization code.
 
 ---
-*Project Analysis for 2025 Hiring Trends.*
 
-![Salary vs Seniority](salary_box.png)
+## 🔍 Key Insights
 
-### 4. Skills Analysis
-**Most In-Demand Keywords**
+### 💰 1. Salary & Compensation
+* **Range:** The typical salary band falls between **$50,000 and $150,000**.
+* **Seniority:** Senior roles exhibit high variance, often exceeding $200k.
 
-![Skills WordCloud](skills.png)
+![Salary Analysis](salary_dist.png)
+
+### 📍 2. Location Trends
+* **Tech Hubs:** Hiring is heavily concentrated in major metropolitan areas.
+* **Remote Work:** Remains a significant portion of the market.
+
+![Location Analysis](location.png)
+
+### 🛠️ 3. Skills in Demand
+* **Top 3 Skills:** Python, SQL, and Machine Learning.
+
+![Skills Word Cloud](skills.png)
+
+---
+
+## 📊 Deep Dive: Market Structure
+The market is currently dominated by **Data Scientists** and **Analysts**.
+
+<p align="center">
+  <img src="titles.png" width="45%" />
+  <img src="seniority.png" width="45%" />
+</p>
+
+---
+
+## 📝 Conclusion
+The 2025 market favors candidates who combine **technical expertise (Python/SQL)** with domain knowledge.
+
+---
+*Created by [Your Name]*
