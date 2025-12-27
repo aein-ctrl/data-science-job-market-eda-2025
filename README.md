@@ -60,4 +60,4 @@ The 2025 market favors candidates who combine **technical expertise (Python/SQL)
 ![Salary Boxplot](images%20of%20plots/Salary%20vs%20Seniority%20(boxplot%20for%20outliers).png)
 
 ---
-*Created by [Your Name]*
+*Created by [mahima gupta]*
